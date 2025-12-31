@@ -46,7 +46,12 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "GitHub",
-			url: "https://gitee.com/c1oudsea/astro_blog", // Internal links should not include the base path, as it is automatically added
+			url: "https://github.com/cossheep/", // Internal links should not include the base path, as it is automatically added
+			external: true, // Show an external link icon and will open in a new tab
+		},
+		{
+			name: "GitEE",
+			url: "https://gitee.com/c1oudsea/",
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
@@ -56,6 +61,7 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Cossheep",
 	bio: "Cossheep's Blog",
+	// Visit https://fontawesome.com/ to get the icon code
 	links: [
 		{
 			name: "Bilibili",
@@ -74,6 +80,11 @@ export const profileConfig: ProfileConfig = {
 			name: "GitEE",
 			icon: "fa6-brands:git",
 			url: "https://gitee.com/c1oudsea/",
+		},
+		{
+			name: "GitHub",
+			icon: "fa6-brands:github",
+			url: "https://github.com/cossheep",
 		},
 	],
 };
