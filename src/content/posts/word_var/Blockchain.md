@@ -1,5 +1,14 @@
-把区块链想象成一个**“由所有人共同维护的公共数字账本”**。
+---
+title: 区块链 （Blockchain）
+published: 2025-04-20
+description: 这是概念解释，展示了区块链的基本原理，自己学习
+tags: [Blockchain]
+category: WordVar
+draft: false
+---
 
+
+把区块链想象成一个**“由所有人共同维护的公共数字账本”**。
 
 ### 🏘️ 一个关于“记账”的故事
 想象有一个村庄，村民们互相做生意。

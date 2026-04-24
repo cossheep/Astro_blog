@@ -1,3 +1,12 @@
+---
+title: 集成 AI Coze 工作流方案（已实现）
+published: 2025-04-15
+description: 这是一个项目经历，展示了我在 Coze 平台上的工作流方案（已实现）。
+tags: [Coze, AI, Resume]
+category: Resume
+draft: false
+---
+
 # 集成 AI Coze 工作流方案（已实现）
 
 ## 项目背景
