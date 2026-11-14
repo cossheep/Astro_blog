@@ -1,7 +1,7 @@
 ---
 title: 序列化和反序列化
 published: 2026-11-14
-description: 序列化（Serialization）和反序列化（Deserialization）是计算机科学中非常核心的概念，简单来说，它们就是**数据在“内存中的对象”和“可存储/可传输的格式”之间互相转换的过程。
+description: 序列化（Serialization）和反序列化（Deserialization）是计算机科学中非常核心的概念，简单来说，它们就是数据在“内存中的对象”和“可存储/可传输的格式”之间互相转换的过程。
 tags: [Project, Serialization]
 category: 学习
 draft: false
